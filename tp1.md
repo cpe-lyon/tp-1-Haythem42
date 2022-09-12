@@ -170,3 +170,5 @@ Enfin, pour enregistrer les modifications et quitter nano, on fait **Ctrl o** po
 Pour faire une recher dans 'nano', on peut utiliser le raccourci **Ctrl w**.
 
 La commande source .bashrc nous permet d'activer les modifications faites dans .bashrc sans avoir à se déconnecter et se reconnecter.
+
+La ligne pour faire cet affichage ressemble à : PS1='${debian_chroot:+($debian_chroot)}\[\033[35m\][\A]\[\033[00m\] - \[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[36m\]\w\[\033[00m\]\$ '
