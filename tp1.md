@@ -3,9 +3,9 @@
 
 ##  Exercice 2
 
-**Manuel**
+> Manuel
 
-> Which
+- Which
 
 Cette commande permet d'afficher (sur la sortie standard) le chemin complet d'un fichier. La commande peut être accompagné d'un ou plusieurs arguments (options).
 
@@ -23,7 +23,8 @@ Ex. : man 6 intro
 
 Cette section décrit les jeux et les petits programmes disponibles sur le système.
 
-**Navigation dans l'arborescence des fichiers**
+
+> Navigation dans l'arborescence des fichiers
 
 Pour se diriger dans un dossier, on doit utiliser la commande **cd**.
 
@@ -75,7 +76,8 @@ La commande permettant de supprimer un dossier est **rmdir nomDossier**, cependa
 
 Il faudra donc opter pour la commande **rm -r nomDossier** afin de supprimer le dossier et son contenu.
 
-**Commandes importantes**
+
+> Commandes importantes
 
 La commande **date** permet d'afficher la date et l'heure courante du système.
 
